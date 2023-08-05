@@ -1,0 +1,82 @@
+body{
+    background-color: chocolate;
+}
+h1.Title{
+    font-family: "Helvetica Neue",sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+}
+form.login{
+    padding-left: 800px;
+    padding-top: 250px;
+}
+label.Username{
+    color: black;
+    font-family: "Helvetica Neue",sans-serif;
+    font-size: 20px;
+    font-weight: unset;
+}
+label.Password{
+    color: black;
+    font-family: "Helvetica Neue",sans-serif;
+    font-size: 20px ;
+    font-weight: unset;
+}
+input.box{
+    width: 200px;
+    height: 40px;
+    border: none;
+    border-radius: 15px;
+    font-family: "Helvetica Neue",sans-serif;
+    font-weight: initial;
+    font-size: 15px;
+}
+input.box2{
+    width: 200px;
+    height: 40px;
+    border: none;
+    border-radius: 15px;
+    font-family: "Helvetica Neue",sans-serif;
+    font-weight: initial;
+    font-size: 15px;
+}
+input.button{
+    width: 100px;
+    height: 50px;
+    border: none;
+    border-radius: 15px;
+    background-color: black;
+    color: white;
+    font-family: "Helvetica Neue",sans-serif;
+    font-weight: initial;
+    font-size: 15px;
+    margin-left: 200px;
+}
+input.button:hover{
+    background-color: brown;
+}
+h2.Message{
+    color: black;
+    font-family: "Helvetica Neue",sans-serif;
+    font-size: 35px ;
+    font-weight: bold;
+}
+h2.Message2{
+    color: black;
+    font-family: "Helvetica Neue",sans-serif;
+    font-size: 35px ;
+    font-weight: bold;
+}
+h2.Message3{
+    color: black;
+    font-family: "Helvetica Neue",sans-serif;
+    font-size: 35px ;
+    font-weight: bold;
+}
+/*
+*This is the basic styling of the whole login form
+*The css is only for styling and customization
+*Nothing too great here!!!
+ */
